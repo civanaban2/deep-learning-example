@@ -1,0 +1,9 @@
+# Direct notebook dependencies; not a historical environment lock file.
+torch
+torchvision
+numpy
+matplotlib
+seaborn
+scikit-learn
+torchsummary
+jupyterlab
